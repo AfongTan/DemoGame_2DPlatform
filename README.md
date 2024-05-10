@@ -6,61 +6,72 @@
 
 - 完成百度定位SDK的接入，可在开始界面显示欢迎
 
-【GIF】
+![](https://github.com/AfongTan/DemoGame_2DPlatform/blob/main/res/welcome.gif)
 
 ## 角色控制和动画
 
 - 基础的角色跳跃移动、攻击、平台的上下
 
-  【GIF】
+  ![【GIF】](https://github.com/AfongTan/DemoGame_2DPlatform/blob/main/res/gamePlay.gif)
 
 ## 敌人AI
 
 - 谁用BehaviourTreeDesigner，进行敌人AI开发，尝试创建可复用的action节点
 
-【GIF】
+![【GIF】](https://github.com/AfongTan/DemoGame_2DPlatform/blob/main/res/behaviouirTree_bat.gif)
 
-【GIF】
+![【GIF】](https://github.com/AfongTan/DemoGame_2DPlatform/blob/main/res/behaviouirTree_boar.gif)
 
-【GIF】
+![【GIF】](https://github.com/AfongTan/DemoGame_2DPlatform/blob/main/res/behaviouirTree_spider.gif)
 
 ## **Buff系统**：
 
-- Buff系统的持续时间、触发频率、叠加方式等等，都可通过Excel配置表快速配置，
+- Buff系统的持续时间、触发频率、叠加方式等等，都可通过Excel配置表快速配置(目前只配置了两个buff)
 
-【luban图片】
+![【luban图片】](https://github.com/AfongTan/DemoGame_2DPlatform/blob/main/res/buff_luban.png)
 
 - 流血Buff
 
-【GIF】
+![【GIF】](https://github.com/AfongTan/DemoGame_2DPlatform/blob/main/res/buff_Bleeding.gif)
 
 - 冰冻Buff
 
-【GIF】
+![【GIF】](https://github.com/AfongTan/DemoGame_2DPlatform/blob/main/res/buff_Forzeen.gif)
 
 ## 商店&背包&装备系统
 
 - 完成商店等系统的UI及其功能，通过简单的Linq语法，可对商店、背包等物品进行条件排序
 
-  【GIF】
+- 商店
+
+![](https://github.com/AfongTan/DemoGame_2DPlatform/blob/main/res/ShopPanel.gif)
+
+- 装备
+![](https://github.com/AfongTan/DemoGame_2DPlatform/blob/main/res/equipmentPanel.gif)
+
+- 所有的装备都是可配置的
+
+![](https://github.com/AfongTan/DemoGame_2DPlatform/blob/main/res/item_luban.png)
 
 ## 在线奖励
 
 - 根据玩家的在线时长解锁奖励
 
-【GIF】
+![【GIF】](https://github.com/AfongTan/DemoGame_2DPlatform/blob/main/res/RewardPanel.gif)
 
 ## 存档系统
 
 - 通过Json进行数据的持久化，支持加载、删除存档
 
+![](https://github.com/AfongTan/DemoGame_2DPlatform/blob/main/res/SaveLoad.gif)
+
 ## 场景切换
 
-【GIF】
+![【GIF】](https://github.com/AfongTan/DemoGame_2DPlatform/blob/main/res/LoadingPanel.gif)
 
 ## 背景无限滚动
 
-【Gif】
+![【Gif】](https://github.com/AfongTan/DemoGame_2DPlatform/blob/main/res/background.gif)
 
 ## 资源加载
 
